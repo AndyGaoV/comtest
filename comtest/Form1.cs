@@ -57,6 +57,7 @@ namespace comtest
 
             serialPort1.Open();
             // 为了测试GitHub的Branch功能
+            // test for github
         }
 
 
